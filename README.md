@@ -223,7 +223,7 @@ The application has been tested for:
 
 **Dhamanda Diya Hoshiyarsingh**
 
-Frontend Developer
+Full Stack Developer
 
 ---
 
