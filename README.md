@@ -3,7 +3,7 @@
 ## 🎥 Project Demonstration Video
 
 **Video Explanation Link:**
-(Add your YouTube/Drive video link here)
+((https://drive.google.com/file/d/1LOkzOyT4cXvIeU-tzt5GVyLlEpGpGFUY/view?usp=sharing))
 
 ---
 ### Product Cards Section
@@ -204,23 +204,6 @@ React components subscribe to Redux state using useSelector() and re-render when
 * Responsive Design
 * Dynamic Rendering
 * Component Reusability
-
----
-
-# 📈 Future Enhancements
-
-The following features can be added in future versions:
-
-* Product Details Page
-* Search Functionality
-* Product Filtering
-* Category-Based Products
-* Pagination
-* Add to Cart
-* Wishlist Feature
-* Dark Mode
-* Product Rating Display
-* Sorting Functionality
 
 ---
 
