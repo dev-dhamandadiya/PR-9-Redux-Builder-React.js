@@ -221,9 +221,9 @@ The application has been tested for:
 
 # 👩‍💻 Author
 
-**Dhamanda Diya Hoshiyarsingh**
+**DHAMANDA DIYA HOSHIYARSINGH**
 
-Full Stack Developer
+FULL STACK DEVELOPER
 
 ---
 
